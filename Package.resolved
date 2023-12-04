@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "clio-entities",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/clio-app/clio-entities",
+      "state" : {
+        "branch" : "main",
+        "revision" : "65ed9cc17c474d258da69311a0176abdb10673b2"
+      }
+    },
+    {
+      "identity" : "mixpanel-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mixpanel/mixpanel-swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "c6336881a077d283db6f6d6e2f242977250230bd"
+      }
+    }
+  ],
+  "version" : 2
+}
